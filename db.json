@@ -1,0 +1,60 @@
+{
+    "services":[
+        {
+            "id":1,
+            "title":"I will landscape your garden",
+            "thumbnailUrl":"http://localhost:9000/garden.jpg",
+            "rating":4,
+            "rate":44.99,
+            "specialist":{
+                "id":1,
+                "fullName":"Mark Brone"
+            }
+        },
+        {
+            "id":2,
+            "title":"I will paint your car from top to bottom",
+            "thumbnailUrl":"http://localhost:9000/car.jpg",
+            "rating":3,
+            "rate":34,
+            "specialist":{
+                "id":2,
+                "fullName":"Nna Did"
+            }
+        },
+        {
+            "id":3,
+            "title":"I will manage your team with strict plan",
+            "thumbnailUrl":"http://localhost:9000/office.jpg",
+            "rating":5,
+            "rate":54,
+            "specialist":{
+                "id":3,
+                "fullName":"Akande Markusienu"
+            }
+        },
+        {
+            "id":4,
+            "title":"I will trim your flowers",
+            "thumbnailUrl":"http://localhost:9000/flowers.jpg",
+            "rating":5,
+            "rate":34,
+            "specialist":{
+                "id":4,
+                "fullName":"Joshua Nuhuam"
+            }
+        }
+        ,
+        {
+            "id":5,
+            "title":"I will trim your flowers",
+            "thumbnailUrl":"http://localhost:9000/flowers.jpg",
+            "rating":5,
+            "rate":34,
+            "specialist":{
+                "id":4,
+                "fullName":"Joshua Nuhuam"
+            }
+        }
+    ]
+}
